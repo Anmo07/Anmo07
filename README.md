@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills <br>
 - 🌱 I’m currently learning C,java, python language <br>
 - insta@anmthinks<br>
-- Boy / 20 / Diploma in computer engineering <br>
+- Boy / 21 / Diploma in computer engineering <br>
   
 
 <!---
