@@ -1,1 +1,1 @@
-Computer Engineering student specialising in AI systems and operating system development. Experienced in building offline AI assistants and custom Linux distributions with scalable architectures. Strong foundation in Python, problem solving, and system-level design.
+Computer Engineering student specializing in AI systems and Software/Website Development. Strong foundation in Python, problem solving, design orchestration.
